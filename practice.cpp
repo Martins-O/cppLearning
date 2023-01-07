@@ -1,9 +1,20 @@
 #include <iostream>
-#include <ostream>
+#include <iostream>
 
 // using namespace std;
-
+// main function
 int main(){
-    std::cout << "Hello, World!"<<std::endl;
-    return 0;
+    std::cout << "Martins" <<std::endl;
+    std::cout << "Martins" <<std::endl;
+    std::cout << "Martins" <<std::endl;
+    std::cout << "Martins" <<std::endl;
+    std::cout << "Martins" <<std::endl;
+    std::cout << "Martins" <<std::endl;
+    std::cout << "Martins" <<std::endl;
+    std::cout << "Martins" <<std::endl;
+    std::cout << "Martins" <<std::endl;
+    std::cerr << "Martins" <<std::endl;
+    std::clog<<"Martins"<<std::endl;
+   
+    return 10;
 }
